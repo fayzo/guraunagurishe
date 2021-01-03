@@ -142,7 +142,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="<?php echo BASE_URL_LINK ;?>plugins/slick-1.8.0/slick.js"></script>
 <script src="<?php echo BASE_URL_LINK ;?>plugins/parallax-js-master/parallax.min.js"></script>
 <script src="<?php echo BASE_URL_LINK ;?>plugins/easing/easing.js"></script>
+<script src="<?php echo BASE_URL_LINK ;?>plugins/Isotope/isotope.pkgd.min.js"></script>
+<script src="<?php echo BASE_URL_LINK ;?>plugins/jquery-ui-1.12.1.custom/jquery-ui.js"></script>
 <script src="<?php echo BASE_URL_LINK ;?>dist/js/custom.js"></script>
+<script src="<?php echo BASE_URL_LINK ;?>dist/js/shop_custom.js"></script>
+<script src="<?php echo BASE_URL_LINK ;?>dist/js/product_custom.js"></script>
+
 
 
 </body>

@@ -16,6 +16,10 @@
 <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL_LINK ;?>dist/styles/responsive.css">
 <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL_LINK ;?>dist/css/cart_items.css">
 <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL_LINK ;?>dist/css/blog.css">
+<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL_LINK ;?>dist/css/shop.css">
+<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL_LINK ;?>dist/css/contact.css">
+<!-- <link rel="stylesheet" type="text/css" href="< ?php echo BASE_URL_LINK ;?>dist/styles/shop_responsive.css"> -->
+<!-- <link rel="stylesheet" type="text/css" href="< ?php echo BASE_URL_LINK ;?>dist/styles/product_responsive.css"> -->
 
 </head>
 

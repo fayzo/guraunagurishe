@@ -17,7 +17,7 @@
 
 						<!-- Contact Item -->
 						<div class="contact_info_item d-flex flex-row align-items-center justify-content-start">
-							<div class="contact_info_image"><img src="images/contact_1.png" alt=""></div>
+							<div class="contact_info_image"><img src="<?php echo BASE_URL_LINK ;?>images/contact_1.png" alt=""></div>
 							<div class="contact_info_content">
 								<div class="contact_info_title">Phone</div>
 								<div class="contact_info_text">+38 068 005 3570</div>
@@ -26,7 +26,7 @@
 
 						<!-- Contact Item -->
 						<div class="contact_info_item d-flex flex-row align-items-center justify-content-start">
-							<div class="contact_info_image"><img src="images/contact_2.png" alt=""></div>
+							<div class="contact_info_image"><img src="<?php echo BASE_URL_LINK ;?>images/contact_2.png" alt=""></div>
 							<div class="contact_info_content">
 								<div class="contact_info_title">Email</div>
 								<div class="contact_info_text">fastsales@gmail.com</div>
@@ -35,7 +35,7 @@
 
 						<!-- Contact Item -->
 						<div class="contact_info_item d-flex flex-row align-items-center justify-content-start">
-							<div class="contact_info_image"><img src="images/contact_3.png" alt=""></div>
+							<div class="contact_info_image"><img src="<?php echo BASE_URL_LINK ;?>images/contact_3.png" alt=""></div>
 							<div class="contact_info_content">
 								<div class="contact_info_title">Address</div>
 								<div class="contact_info_text">10 Suffolk at Soho, London, UK</div>
